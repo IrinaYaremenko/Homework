@@ -1,0 +1,44 @@
+body{
+	margin: 0;
+}
+.div_main{
+	width: 315px;
+	background-color: #f6f6f6;
+	font-family: Arial;
+	font-size: 15px;
+}
+.div_text{
+	padding: 15px;
+}
+.date{
+	color: #1b90cf;
+	font-size: 12px;
+	margin-top: 0;
+}
+h1{
+	color: #1b90cf;
+	line-height: 24px;
+	font-weight: 700;
+	margin: 0;
+	font-size: 15px;
+
+}
+p{
+	color: #575756;
+	line-height: 23px;
+	margin:10px 0;
+	letter-spacing: 0.7px;
+}
+a{
+	color: #1b90cf;
+	text-decoration: underline;
+}
+button{
+	color: #ffffff;
+	background-color: #1b90cf;
+	width: 235px;
+	height: 50px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	border: none;
+}
